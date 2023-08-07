@@ -1,1 +1,1 @@
-first redirection tak
+hello
